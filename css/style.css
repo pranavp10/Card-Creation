@@ -1,0 +1,89 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.form-container {
+  background: #ff685d;
+  padding: 20px;
+  height: 100vh;
+  border-right: 6px solid #dadada;
+}
+
+.content-container {
+  padding: 20px;
+  background: aliceblue;
+}
+.form-group label {
+  color: #fff;
+  margin-bottom: -1.5rem;
+}
+
+.col-xs-12.col-md-9 {
+  border-left: 1px solid #d9d9d9;
+  min-height: 840px;
+}
+
+.card-block {
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 1px 1px 5px 1px rgba(204, 204, 204, 1);
+  -moz-box-shadow: 1px 1px 5px 1px rgba(204, 204, 204, 1);
+  box-shadow: 1px 1px 5px 1px rgba(204, 204, 204, 1);
+}
+
+.card-block h3 {
+  color: #505050;
+  font-weight: bold;
+}
+
+.card {
+  margin-bottom: 20px;
+  height: 200px;
+}
+
+.card-text {
+  color: #f44336;
+  margin-bottom: 10px;
+}
+
+.card-text span {
+  display: block;
+  color: #2b2b2b;
+}
+
+.card-delete {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  line-height: 9px;
+  padding: 5px 9px;
+  font-size: 12px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+  background: #e8e8e8;
+  border-radius: 3px;
+}
+
+.card-delete:hover {
+  background: #f44336;
+}
+
+.btn.btn-block.btn-primary {
+  background: #006ec5;
+}
+
+.form-group {
+  margin-bottom: 30px;
+}
+
+#myForm h2 {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+
+#error {
+  display: none;
+  color: #ffffff;
+}
