@@ -4,7 +4,7 @@ Creating a card which contaion name, eamil, age usign the user input
 ## Motivation
 This is my fist poject on java script
  
-## Screenshots
+## Screenshot
 ![Alt text](img.png?raw=true "Card Creation")
 
 ## Tech/framework used
