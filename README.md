@@ -1,8 +1,8 @@
 ## Card Creation
-Creating a card which contaion name, eamil, age usign the user input
+Creating a card which contaion name, eamil, age using the user input
 
 ## Motivation
-This is my fist poject on java script
+This is my Fist Project on java script
  
 ## Screenshot
 ![Alt text](img.png?raw=true "Card Creation")
@@ -19,7 +19,7 @@ This is my fist poject on java script
 Nothing to install 
 
 ## How to use?
-Go to the browser and past the path of the index.html thats all.
+Go to the browser and paste the path of the index.html thats all.
 
 ## Contribute
 
